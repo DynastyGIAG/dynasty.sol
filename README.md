@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/dynasty-archives/logo-header.png" width="400" />
+  <img src="https://storage.googleapis.com/dynasty-archives/logo-dynasty-fundo-branco.jpeg" width="375" />
   <br/>
   <h3 align="center">Dynasty Global Investments AG</h3>
 </p>
