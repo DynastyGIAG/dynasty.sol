@@ -6,7 +6,7 @@
 <p align="center">
   <span align="center">Smart Contract</span>
   <br/>
-  <a href ="https://dynastygi.com target="_blank">https://dynastygi.com</a>
+  <a href ="https://dynastygi.com" target="_blank">https://dynastygi.com</a>
 </p>
 
 <p align="center">
